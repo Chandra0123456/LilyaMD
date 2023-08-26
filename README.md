@@ -25,7 +25,7 @@
 **Apikey :**
 - [✓] Free ApiKey 10 Request (/day)
 - [✓] Premium ApiKey 5000 Request (for 1 month)
-- Jika ingin membeli ApiKey Premium silahkan hubungi saya [`Nomor`](https://wa.me/6282221792667?text=permisi+mau+beli+premium+apikey)
+- Jika ingin membeli ApiKey Premium silahkan hubungi saya [`Di Sini`](https://wa.me/6282221792667?text=permisi+mau+beli+premium+apikey)
 
 **Website Api :**
 - BOTCAHX [`Register`](https://api.botcahx.live)
