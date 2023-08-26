@@ -69,9 +69,9 @@ npm start
 
 
 ##### All Contributors
-<a href="https://github.com/BOTCAHX"><img src="https://github.com/BOTCAHX.png?size=100" width="100" height="100"></a> | [![Erlan](https://github.com/ERLANRAHMAT.png?size=100)](https://github.com/ERLANRAHMAT) [![Npnpc]([https://github.com/NpnpicyAvailable](https://github.com/NpnpicyAvailable).png?size=100)](https://github.com/NpnpicyAvailable) 
+<a href="https://github.com/BOTCAHX"><img src="https://github.com/BOTCAHX.png?size=100" width="100" height="100"></a> | [![Erlan](https://github.com/ERLANRAHMAT.png?size=100)](https://github.com/ERLANRAHMAT) | [![Npnpc]([https://github.com/NpnpicyAvailable](https://github.com/NpnpicyAvailable).png?size=100)](https://github.com/NpnpicyAvailable) 
 ---|---
-[Tio](https://github.com/BOTCAHX)  | [Erlan](https://github.com/ERLANRAHMAT) | [Npnpc](https://github.com/NpnpicyAvailable)
+[Tio](https://github.com/BOTCAHX)  | [Erlan](https://github.com/ERLANRAHMAT)  | [Npnpc](https://github.com/NpnpicyAvailable)
 Recode | Contributor |
 
 ##### Special Thanks To
