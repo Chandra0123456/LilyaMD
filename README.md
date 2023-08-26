@@ -55,6 +55,25 @@ npm i
 npm start
 ```
 
+-----------------------
+
+##### Alternative Run
+> Panel dengan eggs node
+- $ up dlu folder nya ke panel gblk
+- $ npm i
+- $ npm start
+- Biasanyamah otomatis, cuman yang pake terminal.js atau spawn bash yang gw buat ya gitu run nya
+
+//><//
+
+> Panel dengan eggs debian/ubuntu
+- $ npm i
+- $ npm start
+- Jika muncul eror seperti berikut [``] Maka gunakan cara di bawah
+- $ npm install node-fetch@2 && npm i
+- $ npm start
+
+-----------------------
 
 ##### All Contributors
 [![Erlan](https://github.com/ERLANRAHMAT.png?size=100)](https://github.com/ERLANRAHMAT)
