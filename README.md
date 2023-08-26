@@ -30,7 +30,7 @@
 **Website Api :**
 - BOTCAHX [`Register`](https://api.botcahx.live)
 - Lann [`Register`](https://api.betabotz.org)
-- 
+- Apparo REST API [`Register`](https://web-zevanoo.cloud.okteto.net) Opsional!
 - Setelah mendapatkan ApiKey dari kedua website tersebut silahkan paste di config.js pada line global.btc dan global.lann
 
 ## Group Bot
