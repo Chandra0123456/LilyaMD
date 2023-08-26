@@ -69,7 +69,32 @@ npm start
 > Panel dengan eggs debian/ubuntu
 - $ npm i
 - $ npm start
-- Jika muncul eror seperti berikut [``] Maka gunakan cara di bawah
+- Jika muncul eror seperti berikut ['node:internal/errors:496
+    ErrorCaptureStackTrace(err);
+    ^
+
+TypeError [ERR_INVALID_THIS]: Value of "this" must be of type URLSearchParams
+    at new NodeError (node:internal/errors:405:5)
+    at Proxy.has (node:internal/url:546:13)
+    at Proxy.<anonymous> (/home/container/LilyaMD/node_modules/node-fetch/dist/index.cjs:700:44)
+    at getNodeRequestOptions (/home/container/LilyaMD/node_modules/node-fetch/dist/index.cjs:1125:15)
+    at /home/container/LilyaMD/node_modules/node-fetch/dist/index.cjs:1221:19
+    at new Promise (<anonymous>)
+    at fetch (/home/container/LilyaMD/node_modules/node-fetch/dist/index.cjs:1218:9)
+    at /home/container/LilyaMD/main.js:5:4365 {
+  code: 'ERR_INVALID_THIS'
+}
+
+'] Atau ['node:internal/process/promises:289
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/container/LilyaMD/node_modules/node-fetch/src/index.js from /home/container/LilyaMD/main.js not supported.
+Instead change the require of index.js in /home/container/LilyaMD/main.js to a dynamic import() which is available in all CommonJS modules.
+    at /home/container/LilyaMD/main.js:5:1452
+    at Object.<anonymous> (/home/container/LilyaMD/main.js:5:10989) {
+  code: 'ERR_REQUIRE_ESM'
+} '] Maka gunakan cara di bawah
 - $ npm install node-fetch@2 && npm i
 - $ npm start
 
