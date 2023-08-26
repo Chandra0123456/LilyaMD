@@ -62,7 +62,7 @@ npm start
 - $ up dlu folder nya ke panel gblk
 - $ npm i
 - $ npm start
-- Biasanyamah otomatis, cuman yang pake terminal.js atau spawn bash yang gw buat ya gitu run nya
+- Biasanyamah otomatis, cuman yang pake [`terminal.js`](https://github.com/NpnpicyAvailable/terminal.js.git) atau spawn bash yang gw buat ya gitu run nya
 
 //><//
 
