@@ -1,8 +1,11 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-# `Information`
+# `Note!`
 
-> Script ini stop update, karena [Baileys](https://github.com/sorke/Baileys) pun stop update, Jadi maaf yang sebesar-besarnya dari saya(Zevano) semoga kamu bisa mencari pengganti Script ini :)
+> Script ini di record dengan hati❤️‍🩹, dilarang keras untuk di perjual belikan dengan harga yang tidak wajar!
+> Script akan selalu update dan akan kami usahakan untuk meminimalisir bug yang ada jika menemukan bug? lapor kami :)
+> Script masih terus kami kembangkan, jadi jangan lupa suport kami di grup Unemployment, sbnr nya si bukn grup ofc nya botchax cuman ya apa salah nya rame in grup gwhej hehe
+> Goodluck ya adick adick, terimakasih yang sudah meluangkan waktu untuk membaca ini :)
 
 ---------
 
