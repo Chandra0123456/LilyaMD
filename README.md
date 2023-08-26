@@ -94,8 +94,8 @@ Instead change the require of index.js in /home/container/LilyaMD/main.js to a d
     at /home/container/LilyaMD/main.js:5:1452
     at Object.<anonymous> (/home/container/LilyaMD/main.js:5:10989) {
   code: 'ERR_REQUIRE_ESM'
-} `] 
-Maka gunakan cara di bawah
+} `]
+- Maka gunakan cara di bawah
 - $ npm install node-fetch@2 && npm i
 - $ npm start
 
