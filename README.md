@@ -6,7 +6,6 @@
 > Script akan selalu update dan akan kami usahakan untuk meminimalisir bug yang ada jika menemukan bug? lapor kami :)
 > Script masih terus kami kembangkan, jadi jangan lupa suport kami di grup Unemployment, sbnr nya si bukn grup ofc nya botchax cuman ya apa salah nya rame in grup gwhej hehe
 > Goodluck ya adick adick, terimakasih yang sudah meluangkan waktu untuk membaca ini :)
-
 ---------
 
 ## New Update
