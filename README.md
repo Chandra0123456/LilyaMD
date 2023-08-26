@@ -47,8 +47,8 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/BOTCAHX/RTXZY-MD
-cd RTXZY-MD
+git clone https://github.com/NpnpicyAvailable/LilyaMD.git
+cd LilyaMD
 npm i
 npm start
 ```
