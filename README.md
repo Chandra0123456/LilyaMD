@@ -39,7 +39,7 @@
 - Group Bebas Botchahx [`Join`](https://chat.whatsapp.com/JAi5AMaxdFLH0s2pH2RcUJ)
   
 ## Support
-<a href="https://sociabuzz.com/tioclkp02" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
+<a href="https://saweria.co/YUSUP909" target="_blank"><img src="https://img.shields.io/badge/SUPORT-ME!-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
