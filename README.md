@@ -9,22 +9,18 @@
 ---------
 
 ## New Update
-
 **Pembaruan :**
-- Telah menggunakan multi auth sessions 
-- Fix QR code di terminal
+- Telah menggunakan multi auth sessions ( Md )
+- Fix QR code di terminal ( Sudah tidak amburadul )
 - Fix console logs pesan masuk 
-- Fix Downloader 
+- Fix Downloader ( Ada beberapa )
 - Penambah output url agar bisa di jalankan di render dsb.
 
   ## Note!
   **Important :**
-  
 - Untuk menggunakan bot ini, kamu diwajibkan mengisi ApiKey terlebih dahulu. Jika tidak mengisinya, bot tidak akan berfungsi dengan baik.
 - Tidak disarankan menginstal bot ini di termux atau panel yang tidak mempunyai kelengkapan express, puppeteer, ffmpeg, imagemagick, webp.
-  
 - Menggunakan 60% fitur dari [`RestApi`](https://api.botcahx.live) sebagai media downloader
-
 
 **Apikey :**
 - [✓] Free ApiKey 10 Request (/day)
@@ -36,32 +32,12 @@
 - Lann [`Register`](https://api.betabotz.org)
 - Setelah mendapatkan ApiKey dari kedua website tersebut silahkan paste di config.js pada line global.btc dan global.lann
 
-
 ## Group Bot
 - Group Bot [`Join`](https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r)
-
 - Group Bebas [`Join`](https://chat.whatsapp.com/JAi5AMaxdFLH0s2pH2RcUJ)
+  
 ## Support
-
 <a href="https://sociabuzz.com/tioclkp02" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
-
-
-### `Render`
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBOTCAHX%2FRTXZY-MD)
-## Base Ori
-Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
-
-## Run On Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/RTXZY-MD)
-# Heroku Buildpack
-### Instal Buildpack
-```bash
-* heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
@@ -82,6 +58,7 @@ npm start
 [![Erlan](https://github.com/ERLANRAHMAT.png?size=100)](https://github.com/ERLANRAHMAT)
 [![Tio](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX)
 [![Npnpc](https://github.com/NpnpicyAvailable.png?size=100)](https://github.com/NpnpicyAvailable)
+
 
 ##### Special Thanks To
 <!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
