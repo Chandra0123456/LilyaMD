@@ -85,7 +85,7 @@ TypeError [ERR_INVALID_THIS]: Value of "this" must be of type URLSearchParams
   code: 'ERR_INVALID_THIS'
 } `]
 
-Atau 
+- Atau 
 
 [` node:internal/process/promises:289
             triggerUncaughtException(err, true /* fromPromise */);
