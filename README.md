@@ -69,7 +69,7 @@ npm start
 > Panel dengan eggs debian/ubuntu
 - $ npm i
 - $ npm start
-- Jika muncul eror seperti berikut
+- Jika muncul eror seperti berikut >>
 [` node:internal/errors:496
     ErrorCaptureStackTrace(err);
     ^
@@ -85,7 +85,7 @@ TypeError [ERR_INVALID_THIS]: Value of "this" must be of type URLSearchParams
   code: 'ERR_INVALID_THIS'
 } `]
 
-- Atau
+- Atau >>
 [` node:internal/process/promises:289
             triggerUncaughtException(err, true /* fromPromise */);
             ^
