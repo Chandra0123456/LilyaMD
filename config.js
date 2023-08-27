@@ -1,17 +1,17 @@
-global.owner = ['6283897390164']  
-global.mods = ['62'] 
-global.prems = ['62']
-global.nameowner = 'Npnpc'
-global.numberowner = '6283897390164' 
-global.mail = 'neastooid@gmail.com' 
-global.gc = 'https://chat.whatsapp.com/FD1WHwwYrpqHKJ6quUglfS'
-global.instagram = 'https://instagram.com/yusupk'
-global.wm = '©Npnpc'
+global.owner = ['6282163403132']  
+global.mods = ['6282163403132'] 
+global.prems = ['6282163403132']
+global.nameowner = 'Ndyyy'
+global.numberowner = '6282163403132' 
+global.mail = 'chandssi00@gmail.com' 
+global.gc = 'https://chat.whatsapp.com/KXHFeHF5ecFAMWOoZGbX3H'
+global.instagram = 'https://instagram.com/'
+global.wm = '©CW'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made With'
-global.author = 'LilyaMD'
+global.author = 'CW'
 
 //INI WAJIB DI ISI!//
 global.btc = 'tMNbXw3t' 
